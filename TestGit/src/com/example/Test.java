@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.vv;
+package com.example;
 
 /**
  * @author agolechha
